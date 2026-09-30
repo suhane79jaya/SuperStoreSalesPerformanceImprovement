@@ -1,6 +1,6 @@
 # SuperStoreSalesPerformanceImprovement
 This project aims to analyze sales data from Superstore to identify key trends, customer purchasing behavior, and areas for revenue growth. By leveraging data analytics, we seek to enhance product performance, optimize pricing strategies, and improve overall sales efficiency.
-Objectives
+**Objectives**
 
 Identify top-selling and underperforming products.
 
@@ -12,7 +12,7 @@ Improve inventory management to reduce stockouts and overstocking.
 
 Enhance marketing strategies for better customer engagement.
 
-Methodology
+**Methodology**
 
 Data Collection: Gather historical sales, customer demographics, and product performance data.
 
@@ -24,7 +24,7 @@ Market Basket Analysis: Understand product relationships for better cross-sellin
 
 Customer Segmentation: Group customers based on purchase behavior to tailor marketing efforts.
 
-Expected Outcomes
+**Expected Outcomes**
 
 Increased revenue through data-driven decision-making.
 
@@ -36,6 +36,6 @@ Improved customer satisfaction and loyalty through personalized promotions.
 
 This project ultimately helps Superstore optimize its sales strategies, boost profitability, and enhance customer experience.
 
-Built with
+**Built with**
 
 MS-EXCEL MS-WORD POWER_POINT
